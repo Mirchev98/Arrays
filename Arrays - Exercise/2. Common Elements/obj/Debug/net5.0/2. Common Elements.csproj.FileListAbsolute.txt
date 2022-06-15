@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.exe
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.deps.json
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.runtimeconfig.json
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.dll
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\bin\Debug\net5.0\2. Common Elements.pdb
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.dll
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\refint\2. Common Elements.dll
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.pdb
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\2. Common Elements.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Arrays - Exercise\2. Common Elements\obj\Debug\net5.0\ref\2. Common Elements.dll

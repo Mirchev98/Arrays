@@ -1,0 +1,16 @@
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\bin\Debug\net5.0\1. Day of Week.exe
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\bin\Debug\net5.0\1. Day of Week.deps.json
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\bin\Debug\net5.0\1. Day of Week.runtimeconfig.json
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\bin\Debug\net5.0\1. Day of Week.runtimeconfig.dev.json
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\bin\Debug\net5.0\1. Day of Week.dll
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\bin\Debug\net5.0\1. Day of Week.pdb
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\1. Day of Week.csproj.AssemblyReference.cache
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\1. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\1. Day of Week.AssemblyInfoInputs.cache
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\1. Day of Week.AssemblyInfo.cs
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\1. Day of Week.dll
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\refint\1. Day of Week.dll
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\1. Day of Week.pdb
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\1. Day of Week.genruntimeconfig.cache
+C:\Users\mdmir\source\repos\Arrays- Lab\Arrays- Lab\obj\Debug\net5.0\ref\1. Day of Week.dll
